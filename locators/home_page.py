@@ -1,4 +1,10 @@
+from selenium.webdriver.common.by import By
 
 
 class HomePageLocators:
-    pass
+    LOGIN = By.XPATH, "//a[@href='/login']"
+
+
+"""
+//a[@href='/login']
+"""

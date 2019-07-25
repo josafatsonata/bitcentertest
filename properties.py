@@ -4,7 +4,7 @@ import sys
 
 class Properties:
 
-    URL = "https://bitwebsite-frontend-stg.herokuapp.com"
+    URL = "https://bitwebsite-frontend-dev.herokuapp.com/"
 
     @staticmethod
     def select_driver():
